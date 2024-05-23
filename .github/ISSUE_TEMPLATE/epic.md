@@ -8,15 +8,19 @@ assignees: ''
 
 ## Summary
 
-_Add a succinct summary_
-
+Add a succinct summary
+<!---
 ## Purpose
 
 _Add a purpose, in brief_
+--->
 
 ## Features
+- [ ] Feature 1
+- [ ] Feature 2
+    - [ ] Feature 2A
 
-_List the line items / stories that make up this epic_
+## Stories
 
-- [ ] Story line 1
-- [ ] Story line 2
+- [ ] Story 1
+- [ ] Story 2
